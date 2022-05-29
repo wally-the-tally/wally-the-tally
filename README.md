@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wally-the-tally AKA walieeldin
+- 👋 Hi, I’m @wally-the-tally
 - 👀 I’m interested in App development and web development
 - 🌱 I’m currently learning popular APIs
 - 💞️ Feel free to collaborate on any of my projects, I'm currently working on nothing(that you know of).
